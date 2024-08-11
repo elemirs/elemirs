@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! I'm Muhammed Emir Akbaş 🌟</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/emirakbas/emirakbas/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirakbas&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
