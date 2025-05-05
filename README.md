@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! I'm Emir 🌟</h1>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirakbas&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elemirs&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirakbas&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemirs&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emirakbas&color=red&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=elemirs&color=red&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://linkedin.com/in/muhammedemirakbas" style="margin-right: 10px;">
+  <a href="https://linkedin.com/in/muhammedelemirs" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
