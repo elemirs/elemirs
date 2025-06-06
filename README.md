@@ -24,7 +24,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://linkedin.com/in/muhammedelemirs" style="margin-right: 10px;">
+  <a href="https://linkedin.com/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
